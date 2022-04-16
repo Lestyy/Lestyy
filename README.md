@@ -1,4 +1,4 @@
-Hi there , I'm Lésty .:wave: <img src="https://komarev.com/ghpvc/?username=zykaaal&color=00ff54"/>
+Hi there , I'm Lésty .:wave: <img src="https://komarev.com/ghpvc/?username=lestyy&color=00ff54"/>
 
 <p align="left"></p>
 My Discord Acc: Lésty#0007
@@ -15,8 +15,8 @@ My Discord Acc: Lésty#0007
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=lesty&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesty&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=lestyy&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestyy&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
 </p>
 <h3 align="left">:ocean: Discord Status:</h3>
 <p align="left">
