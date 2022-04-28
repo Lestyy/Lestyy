@@ -7,7 +7,7 @@ My Discord Acc: Lésty#1990
 <h3>Social Media</h3>
 <p align="left">
   <a href="https://discord.com/users/825761581396656148" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/zykaaal" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Lestyy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
