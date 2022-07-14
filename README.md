@@ -1,7 +1,7 @@
 Hi there , I'm Lésty .:wave: <img src="https://komarev.com/ghpvc/?username=lestyy&color=00ff54"/>
 
 <p align="left"></p>
-My Discord Acc: Lésty#0117
+My Discord Acc: Lésty#7730
 
 
 <h3>Social Media</h3>
